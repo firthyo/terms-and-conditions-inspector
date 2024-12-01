@@ -46,7 +46,7 @@ function App() {
         <HeaderContainer>
           <HeaderContent>
             <Heading size="6" className="bg-gradient-to-r from-blue-600 to-cyan-600 bg-clip-text text-transparent">
-              Terms & Conditions Analyzer
+              Terms & Conditions Inspector
             </Heading>
           </HeaderContent>
         </HeaderContainer>
