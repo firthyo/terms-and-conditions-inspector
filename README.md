@@ -2,13 +2,14 @@
 
 An AI-powered web application inspired by Joan Is Awful from Black Mirror. It helps users analyze Terms and Conditions—upload documents, get summaries, identify potential risks, and ask questions to better understand the content.
 
-## Features
+## ✨ Features
 
-- Document upload (PDF and text files) and text paste functionality
-- AI-powered document analysis
-- Key section summaries
-- Risk identification and severity assessment
-- Natural language document querying
+- 📄 Smart document upload (PDF and text) with drag-n-drop
+- 🤖 AI-powered document analysis
+- ⚠️ Risk identification and assessment
+- 💬 Natural language Q&A
+- 📝 Key section extraction
+- 🎯 Interactive document querying
 
 ## Technology Stack
 
