@@ -1,4 +1,4 @@
-# Terms & Conditions Analyzer
+# Terms & Conditions Inspector
 
 An AI-powered web application inspired by Joan Is Awful from Black Mirror. It helps users analyze Terms and Conditions—upload documents, get summaries, identify potential risks, and ask questions to better understand the content.
 
